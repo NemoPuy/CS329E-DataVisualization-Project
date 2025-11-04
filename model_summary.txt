@@ -1,0 +1,25 @@
+Multiple Linear Regression Model Summary
+========================================
+
+Features used:
+- SPY_momentum_5d
+- SPY_momentum_10d
+- VIX_current
+- VIX_change_1d
+- VIX_change_5d
+- SPY_volume_change_1d
+- SPY_volume_change_5d
+
+R-squared: 0.0086
+MSE: 0.000144
+Direction Accuracy: 52.52%
+
+Coefficients:
+SPY_momentum_5d: -0.049254
+SPY_momentum_10d: 0.004945
+VIX_current: 0.000032
+VIX_change_1d: 0.006360
+VIX_change_5d: -0.002124
+SPY_volume_change_1d: 0.000133
+SPY_volume_change_5d: -0.000590
+Intercept: 0.000010
