@@ -1,0 +1,16 @@
+Random Forest Model Summary
+==========================
+
+Training R²: 0.1421
+Testing R²: 0.0016
+Training Direction Accuracy: 60.97%
+Testing Direction Accuracy: 51.63%
+
+Feature Importance:
+SPY_momentum_10d: 0.2702
+VIX_current: 0.2462
+SPY_momentum_5d: 0.1594
+VIX_change_1d: 0.0996
+VIX_change_5d: 0.0896
+SPY_volume_change_1d: 0.0687
+SPY_volume_change_5d: 0.0663
